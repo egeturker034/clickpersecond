@@ -4,7 +4,7 @@ most overdeveloped cps game, idk why I've done it 🤷
 
 ## features
 
-- **user auth**: Secure login and registration system.
+- **user auth**: secure n title checks out :/
 - **profiles**: 
   - view and edit? user profiles
   - track player statistics (level, xp, best cps, total games, total clicks)
