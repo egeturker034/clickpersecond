@@ -1,40 +1,36 @@
-# clickpersecond
+This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
-most overdeveloped cps game, idk why I've done it 🤷
+## Getting Started
 
-## features
+First, run the development server:
 
-- **user auth**: Secure login and registration system.
-- **profiles**: 
-  - view and edit? user profiles
-  - track player statistics (level, xp, best cps, total games, total clicks)
-  - recent games history
-- **leaderboard**: title checks out.
-- **chat**: title checks out again.
-- **settings**: title checks out once again.
+```bash
+npm run dev
+# or
+yarn dev
+# or
+pnpm dev
+# or
+bun dev
+```
 
-## tech stack
+Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-- front: react ft/typescript
-- back: node ft/express
-- db: json
-- auth: jwt
+You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
 
-## todo?
+This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
 
-1. fix settings page
-2. implement admin panel
-3. re-design the codebase, its a sh*thole
+## Learn More
 
-## Screenshots
+To learn more about Next.js, take a look at the following resources:
 
-login: ![alt text](https://i.imgur.com/v0pwaAi.png)
-register: ![alt text](https://i.imgur.com/SAOV9jo.png)
-home: ![alt text](https://i.imgur.com/Xn74nlg.png)
-game: ![alt_text](https://i.imgur.com/xiW2Rv2.png)
-leaderboard: ![alt text](https://i.imgur.com/SgGJA71.png)
-chat: ![alt text](https://i.imgur.com/qRAuBdr.png)
-profile: ![alt text](https://i.imgur.com/BfFbKNt.png)
-recent games: ![alt text](https://i.imgur.com/QCL6mOT.png)
-settings (broken rn): ![alt text](https://i.imgur.com/8edYnAO.png)
-cooldown: ![alt text](https://i.imgur.com/9I5Tr36.png)
+- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
+- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+
+You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+
+## Deploy on Vercel
+
+The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+
+Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
