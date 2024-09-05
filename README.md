@@ -28,7 +28,7 @@ most overdeveloped cps game, idk why I've done it 🤷
 
 ## Screenshots
 
-login: ![alt text](https://imgur.com/v0pwaAi)
+login: ![alt text](https://i.imgur.com/v0pwaAi.png)
 register: ![alt text](https://imgur.com/SAOV9jo)
 home: ![alt text](https://imgur.com/Xn74nlg)
 game: ![alt_text](https://imgur.com/xiW2Rv2)
